@@ -1,0 +1,9 @@
+/data
+__pycache__/
+venv
+*.duckdb
+*.duckdb.tmp
+mi_proyecto.duckdb  
+/venv/
+logs/
+# --- IGNORE ---
