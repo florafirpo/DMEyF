@@ -6,4 +6,5 @@ venv
 mi_proyecto.duckdb  
 /venv/
 logs/
+predicciones_kaggle.csv
 # --- IGNORE ---
