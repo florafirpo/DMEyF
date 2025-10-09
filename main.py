@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 # Definir la ruta del CSV
 base_path = Path(__file__).parent
-csv_path = base_path / "data" / "competencia_01_con_clase_ternaria.csv"
+csv_path = base_path / "data" / "competencia_01_fe_sinslope.csv"
 # =====================
 # Configuración global
 # =====================
